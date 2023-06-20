@@ -112,7 +112,7 @@ Botpress uses `JSON` files for most configurations. Environment variables can al
 
 The Botpress global config file is the main file used to configure the Botpress server. Your instance of Botpress creates this file automatically if it is missing. Default values should work well when using Botpress, but we will show you other configurations you may need to change on this page.
 
-To get more information about each option, check out the [comments on the configuration schema](https://github.com/botpress/botpress/blob/master/src/bp/core/config/botpress.config.ts)
+To get more information about each option, check out the [comments on the configuration schema](https://github.com/botpress/botpress/blob/master/packages/bp/src/core/config/botpress.config.ts)
 
 ## HTTP Server Configuration
 
